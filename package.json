@@ -22,7 +22,9 @@
     "biome",
     "typescript"
   ],
-  "repository": {},
+  "repository": {
+    "url": "https://github.com/itusharsaini/todo-app"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
